@@ -1,0 +1,13 @@
+<?php
+
+// Disabled Settings Plugin options
+// ----------------------------------------
+
+// Just Disabled at all (true/false)
+$config['disabled_settings_all'] = 'false';
+
+// QueryString Key
+// If is set it will granted access to the user 
+// only if provide a key in the QueryString that match with this values
+$config['disabled_settings_qs_key'] = '';
+$config['disabled_settings_qs_value'] = '';

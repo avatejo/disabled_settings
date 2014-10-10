@@ -1,0 +1,24 @@
+{
+    "name": "avatejo/disabled_settings",
+    "type": "roundcube-plugin",
+    "description": "Disabled access to settings or granted only providing specific parameterizable query string values.",
+    "license": "GNU GPLv3+",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Juan Pablo Hurtado",
+            "email": "avatejo@hotmail.com",
+            "role": "Lead"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "roundcube/plugin-installer": ">=0.1.3"
+    }
+}
