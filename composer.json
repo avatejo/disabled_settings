@@ -3,7 +3,6 @@
     "type": "roundcube-plugin",
     "description": "Disabled access to settings or granted only providing specific parameterizable query string values.",
     "license": "GNU GPLv3+",
-    "version": "1.0",
     "authors": [
         {
             "name": "Juan Pablo Hurtado",
